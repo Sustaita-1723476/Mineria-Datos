@@ -1,6 +1,6 @@
 # Mineria-Datos
 
-#ETAPA 1
+# ETAPA 1
 
 [Mapa Mental](https://github.com/AndyCortez98/FCFM/blob/main/Avance1_PIA_Equipo10.ipynb)
 
