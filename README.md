@@ -2,6 +2,8 @@
 
 # ETAPA 1
 
+[Examen Diagnostico](https://github.com/Sustaita-1723476/Mineria-Datos/blob/main/Examen%20diagnostico_1723476.docx)
+
 [Mapa Mental](https://github.com/AndyCortez98/FCFM/blob/main/Avance1_PIA_Equipo10.ipynb)
 
 [Ejercicio Base de Datos](https://github.com/AndyCortez98/FCFM/blob/main/Ej1_BaseDatos.Equipo10.pdf)
