@@ -4,10 +4,18 @@
 
 [Mapa Mental](https://github.com/AndyCortez98/FCFM/blob/main/Avance1_PIA_Equipo10.ipynb)
 
-[Base de Datos1](https://github.com/AndyCortez98/FCFM/blob/main/Avance_PIA_Eq10.ipynb)
+[Ejercicio Base de Datos](https://github.com/AndyCortez98/FCFM/blob/main/Ej1_BaseDatos.Equipo10.pdf)
 
-[Base de Datos2](https://github.com/AndyCortez98/FCFM/blob/main/Avance1_PIA_Equipo10.ipynb)
+[Limieza de Datos Base 1](https://github.com/AndyCortez98/FCFM/blob/main/Ej_Limpieza_Equipo_10.ipynb)
+
+[Limpieza de Datos Base 2](https://github.com/AndyCortez98/FCFM/blob/main/Ej_LimpiezaConsumo_Equipo10.ipynb)
+
+# ETAPA 2
+
+[Avance Base de Datos1](https://github.com/AndyCortez98/FCFM/blob/main/Avance_PIA_Eq10.ipynb)
+
+[Avance Base de Datos2](https://github.com/AndyCortez98/FCFM/blob/main/Avance1_PIA_Equipo10.ipynb)
 
 [Presentación](https://github.com/AndyCortez98/FCFM/blob/main/Presentacion_Reglas.de.asociacion_Equipo10.pdf)
 
-# ETAPA 2
+[Calificaciones Kahoot](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Calificación_Reglas.De.Asociación_Equipo10.pdf)
