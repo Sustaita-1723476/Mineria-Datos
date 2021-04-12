@@ -21,3 +21,5 @@
 [Presentación](https://github.com/AndyCortez98/FCFM/blob/main/Presentacion_Reglas.de.asociacion_Equipo10.pdf)
 
 [Calificaciones Kahoot](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Calificación_Reglas.De.Asociación_Equipo10.pdf)
+
+[Mapa Mental II](https://github.com/Sustaita-1723476/Mineria-Datos/blob/main/MapaMental2_1723476.pdf)
