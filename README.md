@@ -23,3 +23,7 @@
 [Calificaciones Kahoot](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Calificación_Reglas.De.Asociación_Equipo10.pdf)
 
 [Mapa Mental II](https://github.com/Sustaita-1723476/Mineria-Datos/blob/main/MapaMental2_1723476.pdf)
+
+[Ejercicio Visualizacion BD1](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
+
+[Ejercicio Visualizacion BD2](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1_Equipo10.ipynb)
