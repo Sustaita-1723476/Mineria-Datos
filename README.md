@@ -28,4 +28,6 @@
 
 [Ejercicio Visualizacion BD2](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1_Equipo10.ipynb)
 
-[Avance PIA II](https://github.com/Sustaita-1723476/Mineria-Datos/blob/main/Avance%20PIA%202%20EQ%2010%20BDP.ipynb)
+[Avance PIA II (1)](https://github.com/Sustaita-1723476/Mineria-Datos/blob/main/Avance%20PIA%202%20EQ%2010%20BDP.ipynb)
+
+[Avance PIA II (2)](https://github.com/Sustaita-1723476/Mineria-Datos/blob/main/AvancePIA_II_Eq.10%20(1).ipynb)
