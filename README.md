@@ -32,6 +32,8 @@
 
 [Avance PIA II (2)](https://github.com/Sustaita-1723476/Mineria-Datos/blob/main/AvancePIA_II_Eq.10%20(1).ipynb)
 
+# ETAPA 3
+
 [PIA FINAL](https://github.com/Sustaita-1723476/Mineria-Datos/blob/main/AvancePIA_2_10.ipynb)
 
 [Poster final](https://github.com/AndyCortez98/FCFM/blob/main/Estad%C3%ADsticas%20de%20suicidio%20de%20la%20OMS%20(2).pdf)
